@@ -49,8 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/feki-tn/feki-tn/output/snake.svg" alt="Snake animation" />
 
 ###
